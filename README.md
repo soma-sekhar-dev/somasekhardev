@@ -1,9 +1,5 @@
 ### Hi Developers 👋
-
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Sekhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/soma-sekhar-dokku-400249151/)](https://www.linkedin.com/in/soma-sekhar-dokku-400249151/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Sekhar-green)](https://www.akash)
-
 
 I'm
 Full Stack Developer
